@@ -8,7 +8,7 @@ This Python program is a simple implementation of a 3D cube renderer using OpenG
 - Provides a starting point for experimenting with OpenGL.
 
 ## Motivation
-The primary motivation behind creating this program was to gain a deeper understanding of the mathematics involved in 3D graphics rendering and to get hands-on experience with the OpenGL API. By visualizing a simple 3D object like a cube, users can explore various aspects of 3D graphics, such as transformations, perspective, and shading.
+The primary motivation behind creating this program was to gain a deeper understanding of the mathematics involved in 3D graphics rendering and to get hands-on experience with the OpenGL API. By visualizing a simple 3D object like a cube.
 
 ## Requirements
 - Python 3.x
